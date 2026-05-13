@@ -65,11 +65,11 @@
   <h2 align="center">💻 GitHub Profile Stats</h2>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/?username=UlkeNn&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="UlkeNn Github Stats" />
+    <img height="180" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=UlkeNn&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="UlkeNn Github Stats" />
   </a>
   &nbsp;
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UlkeNn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="UlkeNn Top Languages" />
+    <img height="180" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=UlkeNn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="UlkeNn Top Languages" />
   </a>
 
   <br/><br/>
