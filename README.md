@@ -26,14 +26,13 @@
   <img src="https://img.shields.io/badge/SwiftUI-0066CC?style=for-the-badge&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=uikit&logoColor=white" />
 
-
   <br/>
 
-  <b>🌐  Backend & Web</b><br/>
+  <b>🌐 Backend & Web</b><br/>
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
   <br/>
 
@@ -44,7 +43,6 @@
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 
-
   <br/>
 
   <b>🗄️ Databases</b><br/>
@@ -53,7 +51,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-
 
 </div>
 
@@ -65,11 +62,11 @@
   <h2 align="center">💻 GitHub Profile Stats</h2>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=UlkeNn&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="UlkeNn Github Stats" />
+    <img height="180" src="https://github-readme-stats-delta-one-bodvwt6603.vercel.app/api/?username=UlkeNn&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="UlkeNn Github Stats" />
   </a>
   &nbsp;
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=UlkeNn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="UlkeNn Top Languages" />
+    <img height="180" src="https://github-readme-stats-delta-one-bodvwt6603.vercel.app/api/top-langs/?username=UlkeNn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="UlkeNn Top Languages" />
   </a>
 
   <br/><br/>
