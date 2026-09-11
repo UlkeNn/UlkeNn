@@ -54,28 +54,7 @@
 
 </div>
 
----
 
-### 📊 My GitHub Stats
-
-<div align="center">
-  <h2 align="center">💻 GitHub Profile Stats</h2>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats-delta-one-bodvwt6603.vercel.app/api/?username=UlkeNn&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="UlkeNn Github Stats" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats-delta-one-bodvwt6603.vercel.app/api/top-langs/?username=UlkeNn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="UlkeNn Top Languages" />
-  </a>
-
-  <br/><br/>
-
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="UlkeNn Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=UlkeNn&bg_color=1a1b26&color=7aa2f7&line=9ece6a&point=c0caf5&hide_border=true" />
-  </a>
-
-</div>
 
 ---
 
